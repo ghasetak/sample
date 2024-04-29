@@ -6,12 +6,12 @@ const Home = () => {
       
       <ul style={{ listStyle:"none", padding:"0" }}>
         <li style={{ marginBottom:"10px" }}>
-          <Link to="/page1" style={{ color:"#87CEFA", textDecoration:"none" }}>
+          <Link to="./Page1" style={{ color:"#87CEFA", textDecoration:"none" }}>
             Page1
           </Link>
         </li>
         <li style={{ marginBottom:"10px" }}>
-          <Link to="/page2" style={{ color:"#87CEFA", textDecoration:"none" }}>
+          <Link to="./Page2" style={{ color:"#87CEFA", textDecoration:"none" }}>
             Page2
           </Link>
         </li>

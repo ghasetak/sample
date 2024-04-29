@@ -1,14 +1,14 @@
 import { Helmet } from "react-helmet";
-import {Button, Img, Text, Heading, CheckBox, Input } from "C:/Users/IRANDLT/luxrare-app/src/assets/components";
-import Header from "C:/Users/IRANDLT/luxrare-app/src/assets/components/Header";
-import Sidebar1 from "C:/Users/IRANDLT/luxrare-app/src/assets/components/Sidebar1";
+import {Button, Img, Text, Heading, CheckBox, Input } from "../../components";
+import Header from "../../components/Header";
+import Sidebar1 from "../../components/Sidebar1";
 
 export default function Page2() {
     return(
         <>
          <Helmet>
             <title>
-                Luxrare
+                sample2
             </title>
             <meta name="description" content="Web site"/>
          </Helmet>

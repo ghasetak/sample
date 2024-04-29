@@ -6,11 +6,11 @@ const ProjectRoutes = () => {
  let element = useRoutes([
   { path: "/", element: <Home /> },
   {
-   path: "page1",
+   path: "Page1",
    element: <page1 />,
   },
   {
-   path: "page2",
+   path: "Page2",
    element: <page2 />,
   },
  

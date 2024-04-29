@@ -9,7 +9,7 @@ export default function Page1() {
         <>
          <Helmet>
             <title>
-                Luxrare
+                sample
             </title>
             <meta name="description" content="Web site"/>
          </Helmet>
